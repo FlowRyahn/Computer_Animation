@@ -1,0 +1,9 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
